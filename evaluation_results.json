@@ -1,0 +1,918 @@
+{
+  "OpenAI": {
+    "total_questions": 542,
+    "processed_questions": 542,
+    "correct_answers": 361,
+    "incorrect_answers": [
+      {
+        "question": "by how much did the weighted average exercise price per share increase from 2005 to 2007?",
+        "predicted": "$35.80",
+        "actual": "142.4%"
+      },
+      {
+        "question": "what is the total return is $ 100000 are invested in s&p500 on january 1st , 2015 and sold at the end of 2016?",
+        "predicted": "$129050.00",
+        "actual": "1877"
+      },
+      {
+        "question": "assuming 2010 accrued casualty costs were completely repaired in the following year , ,what would the repairs and maintenance expense increase to for 2011 in millions?",
+        "predicted": "2200",
+        "actual": "2525"
+      },
+      {
+        "question": "what is the average variance of the value at risk of each 2008 section? ( $ )",
+        "predicted": "1.45",
+        "actual": "3.85"
+      },
+      {
+        "question": "what percent higher is the average var for foreign exchange products than that of interest rate products?",
+        "predicted": "63.64%",
+        "actual": "44%"
+      },
+      {
+        "question": "what portion of total long-term borrowings is due in the next 36 months?",
+        "predicted": "$2,450 million",
+        "actual": "29.3%"
+      },
+      {
+        "question": "what was the percentage change of the net favorable prior period development from 2010 to 2008",
+        "predicted": "-31.372549019607842",
+        "actual": "38.2%"
+      },
+      {
+        "question": "payments to participants in the unfunded german plans are expected to be total approximately how much , in millions , for the years 2008 through 2012?",
+        "predicted": "130",
+        "actual": "104"
+      },
+      {
+        "question": "what is the fair value of all notes due by 2019 ? in millions $ .",
+        "predicted": "1872",
+        "actual": "2672"
+      },
+      {
+        "question": "at december 31 , 2008 what was the ratio of the tier 2 capital compared to 2007",
+        "predicted": "37.4",
+        "actual": "0.94"
+      },
+      {
+        "question": "what is percentage change in rd&e spendings from 2013 to 2014?",
+        "predicted": "There is no data provided for RD&E spendings in 2014 to calculate the percentage change from 2013 to 2014.",
+        "actual": "8.3%"
+      },
+      {
+        "question": "what is the applied 2019s net sales in 2018 , ( in billions ) ?",
+        "predicted": "Unable to provide a numerical answer based on the provided data.",
+        "actual": "7.22"
+      },
+      {
+        "question": "what is the total percentage decrease in future contingent acquisition obligations payable in cash from 2009-2013?",
+        "predicted": "-1.44%",
+        "actual": "1.56%"
+      },
+      {
+        "question": "by how much did the average price per share increase from 2010 to 2011?",
+        "predicted": "16.67",
+        "actual": "25.9%"
+      },
+      {
+        "question": "what is the percentage change in total debt from 2014 to 2015?",
+        "predicted": "-3.39%",
+        "actual": "3.4%"
+      },
+      {
+        "question": "at december 31 , 2013 what was the percent of square feet of our office in alpharetta , georgia not leased",
+        "predicted": "34.65%",
+        "actual": "65%"
+      },
+      {
+        "question": "for the fourth quarter ended december 312018 what was the total number of shares purchased in november",
+        "predicted": "3655945",
+        "actual": "47.6%"
+      },
+      {
+        "question": "what is the percentage reduction in the loews common stock from 2013 to 2014",
+        "predicted": "12.38",
+        "actual": "-12.4%"
+      },
+      {
+        "question": "what is the percent change in net revenue from 2015 to 2016?",
+        "predicted": "-7.44%",
+        "actual": "8.04%"
+      },
+      {
+        "question": "considering the year 2012 , how bigger is the capital expenditures on a non-gaap basis than the one on a gaap basis?",
+        "predicted": "218.5",
+        "actual": "8.53%"
+      },
+      {
+        "question": "what is the fair value of hologic common stock used to acquire suros?",
+        "predicted": "106500",
+        "actual": "46.3"
+      },
+      {
+        "question": "what portion of the total acquisition price of suros is dedicated to goodwill?",
+        "predicted": "202,000",
+        "actual": "75.6%"
+      },
+      {
+        "question": "compared to the s&p 500 ,what was the difference in percentage growth from the s&p 500 retail index .",
+        "predicted": "74.46",
+        "actual": "73.4%"
+      },
+      {
+        "question": "for the mtn group acquisition , what was the cost per tower ? .",
+        "predicted": "178,562.12",
+        "actual": "1798334"
+      },
+      {
+        "question": "how many total votes can the class b-3 provide in 2017?",
+        "predicted": "1.3",
+        "actual": "1300"
+      },
+      {
+        "question": "what are the total contingent payments relating to impella?",
+        "predicted": "16750000",
+        "actual": "5583331"
+      },
+      {
+        "question": "what was the average payment per year for the state tax settlement , in millions?",
+        "predicted": "0.1",
+        "actual": "56"
+      },
+      {
+        "question": "what portion of the long-term debt is reported under the current liabilities section of balance sheet as of september 27 , 2008?",
+        "predicted": "38480",
+        "actual": "1.7%"
+      },
+      {
+        "question": "what portion of the total contractual obligations are due within the next 12 months?",
+        "predicted": "$156,571",
+        "actual": "5.8%"
+      },
+      {
+        "question": "for the mtn group acquisition , what was the cost per tower ? .",
+        "predicted": "$178,482.33",
+        "actual": "1798334"
+      },
+      {
+        "question": "what is the average price of the increased electricity usage per gwh?",
+        "predicted": "$18.09",
+        "actual": "18068.8"
+      },
+      {
+        "question": "what was the percentage change in net revenue in 2011",
+        "predicted": "The question asks for data that is not provided in the table or the financial context.",
+        "actual": "3.5%"
+      },
+      {
+        "question": "at the end of 2014 , the notional value of derivatives designated as hedging instruments under gaap was what percent of the fair value?",
+        "predicted": "Unable to provide the calculation without the 2014 data.",
+        "actual": "3044%"
+      },
+      {
+        "question": "what was the difference in percentage cumulative 5-year total stockholder return for cadence design systems inc . compared to the nasdaq composite for the five years ended 12/29/2012?",
+        "predicted": "31.86",
+        "actual": "-31.86"
+      },
+      {
+        "question": "for the three months ended december 2003 what were the total sales proceeds for subsidiaries assets in millions?",
+        "predicted": "295",
+        "actual": "396"
+      },
+      {
+        "question": "for miscellaneous receivables and other assets , what was the percentage that represented assets related to the firm 2019s reinsurance business which were classified as held for sale as of december 2012?",
+        "predicted": "82.8%",
+        "actual": "3.464"
+      },
+      {
+        "question": "what was the percent of the debt maturities outstanding at december 31 , 2013 that was unsecured debt",
+        "predicted": "75.35%",
+        "actual": "72.1%"
+      },
+      {
+        "question": "as part of the employee stock purchase plan what was the percent of the decline in issuance under this plan from 2016 to 2017",
+        "predicted": "12.4%",
+        "actual": "-12.4%"
+      },
+      {
+        "question": "at december 31 , 2010 what was the percent of the net allowance to the the carrying amount of the company 2019s purchased distressed loan portfolio",
+        "predicted": "16.42%",
+        "actual": "19.6%"
+      },
+      {
+        "question": "what is the percentage of allowance of the company's purchased distressed loan portfolio at december 31 , 2010?",
+        "predicted": "19.61%",
+        "actual": "16%"
+      },
+      {
+        "question": "what percent of of the total variance in net revenue is attributed to the variance in volume/weather?",
+        "predicted": "29.6%",
+        "actual": "56.6%"
+      },
+      {
+        "question": "how much did net rental expense increase from 2007 to 2009?",
+        "predicted": "15",
+        "actual": "6.2%"
+      },
+      {
+        "question": "what is the total value of the issued options , warrants and rights , ( in millions ) ?",
+        "predicted": "$125.07 million",
+        "actual": "125.5"
+      },
+      {
+        "question": "by how much did the average price per share increase from 2010 to 2011?",
+        "predicted": "16.67",
+        "actual": "25.9%"
+      },
+      {
+        "question": "what is the rate of return of an investment in s&p500 inc from 2001 to 2005?",
+        "predicted": "16.61",
+        "actual": "11.2%"
+      },
+      {
+        "question": "what is the growth rate of the net earnings for basic and diluted eps?",
+        "predicted": "-1.34%",
+        "actual": "-13.3%"
+      },
+      {
+        "question": "what was the percent change in the weighted average cost per share from 2016 to 2017",
+        "predicted": "31.46",
+        "actual": "31.5%"
+      },
+      {
+        "question": "considering the year 2018 , what is the cash flow result?",
+        "predicted": "-453.2",
+        "actual": "-454.2"
+      },
+      {
+        "question": "what is the growth rate of the net earnings for basic and diluted eps?",
+        "predicted": "-6.3%",
+        "actual": "-13.3%"
+      },
+      {
+        "question": "by how much did the weighted average exercise price per share increase from 2005 to 2007?",
+        "predicted": "$35.80",
+        "actual": "142.4%"
+      },
+      {
+        "question": "what is the percentage change in fair value of forward exchange contracts asset from 2010 to 2011?",
+        "predicted": "-18.99",
+        "actual": "-65.9%"
+      },
+      {
+        "question": "what is the percentage increase from 2014-2015 in total cash flow data?",
+        "predicted": "0.67%",
+        "actual": "2.04%"
+      },
+      {
+        "question": "what is the decline from current future minimum lease payments and the following years expected obligation?\\\\n",
+        "predicted": "332",
+        "actual": "25%"
+      },
+      {
+        "question": "what is the carrying value of notes due by 2017 ? in millions $ .",
+        "predicted": "698",
+        "actual": "2448"
+      },
+      {
+        "question": "what is the roi of an investment in pmi from 2013 to 2014?",
+        "predicted": "-2.1%",
+        "actual": "2.1%"
+      },
+      {
+        "question": "what was purchases of reserves in place in 2016?",
+        "predicted": "34",
+        "actual": "-13"
+      },
+      {
+        "question": "what was the percent change in capital gain distributions between 2008 and 2009?",
+        "predicted": "-64.29%",
+        "actual": "-48%"
+      },
+      {
+        "question": "what is the percent change in net revenue from 2015 to 2016?",
+        "predicted": "-7.44%",
+        "actual": "8.04%"
+      },
+      {
+        "question": "what is the growth rate in sales from 2013 to 2014?",
+        "predicted": "23.0%",
+        "actual": "22.2%"
+      },
+      {
+        "question": "what portion of the total identifiable net assets is in cash?",
+        "predicted": "$45,826",
+        "actual": "73.7%"
+      },
+      {
+        "question": "what portion of the total purchase consideration is allocated to goodwill?",
+        "predicted": "203,828",
+        "actual": "76.6%"
+      },
+      {
+        "question": "what percentage of december 31 , 2007 , total future minimum commitments under existing non-cancelable operating leases and purchase obligations were due to lease obligations for the year of 2008?",
+        "predicted": "6.5%",
+        "actual": "7%"
+      },
+      {
+        "question": "what was the percentage change in the company recognized tax-related interest and penalties in 2011 .",
+        "predicted": "-100%",
+        "actual": "15.8%"
+      },
+      {
+        "question": "what is the average price of the increased electricity usage per gwh?",
+        "predicted": "$18.1 million",
+        "actual": "18068.8"
+      },
+      {
+        "question": "for the chicago headquarters lease , assuming the two options to extend the term are exercised , what is the last year the space can be leased?",
+        "predicted": "2039",
+        "actual": ""
+      },
+      {
+        "question": "was the 2002 first quarter variance in high & low stock prices greater than the 2001 first quarter variance?",
+        "predicted": "13.73",
+        "actual": "no"
+      },
+      {
+        "question": "what is the percentage of decrease of long-term debt from 2007 to 2011?",
+        "predicted": "-47.7%",
+        "actual": "54.7%"
+      },
+      {
+        "question": "how much did the lease obligations drop from 2004 to 2011?",
+        "predicted": "$205 million - $158 million = $47 million",
+        "actual": "$ 193 million"
+      },
+      {
+        "question": "in 2010 what was the percentage change of the carrying amount of loan receivable net of the allowance",
+        "predicted": "-49.24%",
+        "actual": "-52.5%"
+      },
+      {
+        "question": "what was the percentage growth of the five-year cumulative total return of s&p financials from 2015 to 2016",
+        "predicted": "22.7",
+        "actual": ""
+      },
+      {
+        "question": "what portion of the company owned facilities are located in europe?",
+        "predicted": "11",
+        "actual": "13.3%"
+      },
+      {
+        "question": "as of december 31 , 2016 , what percentage of manufacturing and processing facilities are leased?",
+        "predicted": "4.35%",
+        "actual": ""
+      },
+      {
+        "question": "in 2011 what was the amount of tax related to the unrealized losses reclassifications totaled $ 303 million , or $ 189 million after-tax,",
+        "predicted": "189 million",
+        "actual": "114"
+      },
+      {
+        "question": "what portion of the adjusted consolidated cash flow for the twelve months ended december 31 , 2005 is related to non-tower cash flow?",
+        "predicted": "$30,584",
+        "actual": "-5.8%"
+      },
+      {
+        "question": "what portion of the adjusted consolidated cash flow for the twelve months ended december 31 , 2005 is related to tower cash flow?",
+        "predicted": "558,360",
+        "actual": "105.0%"
+      },
+      {
+        "question": "what is the percentage change in amortization expense from from 2007 to 2008?",
+        "predicted": "-1.6%",
+        "actual": "4.2%"
+      },
+      {
+        "question": "in 2017 what was amount net sales applicable to international market in millions",
+        "predicted": "$1,373.6 million",
+        "actual": "1320.8"
+      },
+      {
+        "question": "on february 112011 what was the market capitalization",
+        "predicted": "22576212408.35",
+        "actual": "22556579533.3"
+      },
+      {
+        "question": "for the ipl cumulative preferred stock , what was the dividend rate at december 31 , 2016 and 2015?",
+        "predicted": "$3 million",
+        "actual": "5%"
+      },
+      {
+        "question": "what is the increase observed in the balance at the end of the year during 2005 and 2004?",
+        "predicted": "68412000",
+        "actual": "11.49%"
+      },
+      {
+        "question": "what on the net interest reduction of 13 million or 23% ( 23 % ) compared to 2015 what was the interest amount in 2016 in millions",
+        "predicted": "56.52",
+        "actual": "69.5"
+      },
+      {
+        "question": "what percent of the change between net revenue in 2007 and 2008 was due to rider revenue?",
+        "predicted": "9.5%",
+        "actual": "18%"
+      },
+      {
+        "question": "what are the total current assets of kichler included in the acquisition price with the revised version?",
+        "predicted": "271",
+        "actual": "273"
+      },
+      {
+        "question": "what portion of the revised purchase price of kichler is dedicated to goodwill?",
+        "predicted": "64",
+        "actual": "11.7%"
+      },
+      {
+        "question": "considering the year 2016 , what is the short-term debt as a percent of total debt?",
+        "predicted": "15.02%",
+        "actual": "21%"
+      },
+      {
+        "question": "what was the difference in percentage return for pmi common stock compared to the s&p 500 index for the five years ended 2018?",
+        "predicted": "-53.8",
+        "actual": "53.8%"
+      },
+      {
+        "question": "what was the average backlog at year-end from 2013 to 2015",
+        "predicted": "$19,700",
+        "actual": "197000"
+      },
+      {
+        "question": "what is the decline from current future minimum lease payments and the following years expected obligation?\\\\n",
+        "predicted": "332",
+        "actual": "25%"
+      },
+      {
+        "question": "the non-recurring charge for the office facility closing was what percent of lease expense in 2006?",
+        "predicted": "7.1%",
+        "actual": "4.6%"
+      },
+      {
+        "question": "what is the percent change in quarterly cash dividend for the period ended march 31 2002 to the period ended march 31 2003?",
+        "predicted": "4.65",
+        "actual": "1.11%"
+      },
+      {
+        "question": "what is the percent change in annual long-term debt maturities from 2016 to 2017?",
+        "predicted": "275.29",
+        "actual": "276%"
+      },
+      {
+        "question": "what percent of the change between net revenue in 2007 and 2008 was due to rider revenue?",
+        "predicted": "3.9%",
+        "actual": "18%"
+      },
+      {
+        "question": "what is the growth rate in the price of shares from the highest value during the quarter ended december 31 , 2008 and the closing price on february 13 , 2009?",
+        "predicted": "-23.99%",
+        "actual": "29.2%"
+      },
+      {
+        "question": "what was the percentage change in the rental expense under operating leases from 2004 to 2005",
+        "predicted": "4.3%",
+        "actual": "1.9%"
+      },
+      {
+        "question": "by how much did contingent rental liability decrease from 2007 to 2009?",
+        "predicted": "14",
+        "actual": "-42.4%"
+      },
+      {
+        "question": "what was the percentage change in rental expense for operating leases from 2008 to 2009?",
+        "predicted": "14.8%",
+        "actual": "17%"
+      },
+      {
+        "question": "what are the cost reduction initiatives as a percentage of the operating companies income increase?",
+        "predicted": "16.8%",
+        "actual": "166%"
+      },
+      {
+        "question": "what was the growth rate of the cash flows from operations from 2011 to 2012",
+        "predicted": "11.48%",
+        "actual": ""
+      },
+      {
+        "question": "what is the percentage change in amortization expense from from 2008 to 2009?",
+        "predicted": "-1.74%",
+        "actual": "2.0%"
+      },
+      {
+        "question": "what is the increase observed in the first quarter dividend percentage concerning the total value , during 2018 and 2019?",
+        "predicted": "15.79%",
+        "actual": "1.66%"
+      },
+      {
+        "question": "what was the percentage change in net fair value of derivatives outstanding at between 2007 and 2008 in thousands?",
+        "predicted": "929.8%",
+        "actual": "928%"
+      },
+      {
+        "question": "how much more , in percent , was spent on october shares than november shares?",
+        "predicted": "84.88",
+        "actual": "1229%"
+      },
+      {
+        "question": "what is the percent change in fair value between 2010 and 2011?",
+        "predicted": "21.9%",
+        "actual": "15.8%"
+      },
+      {
+        "question": "assuming a fmv of a share equal to 2000 , under the pre-december 31 , 2007 plan , approximately how many shares would each non-employee director receive annually?",
+        "predicted": "900",
+        "actual": "90"
+      },
+      {
+        "question": "what portion of the adjusted consolidated cash flow for the twelve months ended december 31 , 2005 is related to non-tower cash flow?",
+        "predicted": "-30,584",
+        "actual": "-5.8%"
+      },
+      {
+        "question": "what portion of the equity compensation plan approved by security holders is to be issued upon the exercise of options warrants and rights?",
+        "predicted": "448859",
+        "actual": "9.9%"
+      },
+      {
+        "question": "if there were 50 facilities being rated in 2009 , how many were bbb/baa?",
+        "predicted": "2",
+        "actual": "1"
+      },
+      {
+        "question": "what is the change in the balance of liability for all restructuring from 2006 to 2008 , ( in millions ) ?",
+        "predicted": "19.0",
+        "actual": "-19"
+      },
+      {
+        "question": "at december 31 , 2008 what was the ratio of the tier 2 capital compared to 2007",
+        "predicted": "37.4",
+        "actual": "0.94"
+      },
+      {
+        "question": "what the percentage increase defined contribution plans for foreign countries and contribution from 2007 to 2008",
+        "predicted": "9.6%",
+        "actual": "7.5%"
+      },
+      {
+        "question": "what were the remaining mondovi net assets acquired following the sale of certain excess assets from the deal , in thousands?",
+        "predicted": "$871,861",
+        "actual": "1042490.2"
+      },
+      {
+        "question": "what is the percentage increase from 2014-2015 in total cash flow data?",
+        "predicted": "0.67%",
+        "actual": "2.04%"
+      },
+      {
+        "question": "what is the increase observed in the total revenue during 2010 and 2011?",
+        "predicted": "2775",
+        "actual": "32.60%"
+      },
+      {
+        "question": "as of december 31 , 2015 what was the percentage decline in the gross unrecognized tax benefits from 2014 to 2015",
+        "predicted": "32.95%",
+        "actual": "-32.9%"
+      },
+      {
+        "question": "as of december 31 , 2017 , assuming an average price per share of $ 12.12 , what would be the cost in millions to repurchase all the remaining shares remaining in the program?",
+        "predicted": "20.29",
+        "actual": "2981.5"
+      },
+      {
+        "question": "for the facility leases that have remaining terms through fiscal 2010 , assuming the annual rent is approximately that of 2003 , what is the remaining total obligation?",
+        "predicted": "$4,578",
+        "actual": "4926000"
+      },
+      {
+        "question": "considering the years 2015-2016 , what is the decrease observed in the cash contributions to funded plans and benefit payments for unfunded plans?",
+        "predicted": "58.2",
+        "actual": "42.32%"
+      },
+      {
+        "question": "what percent of assets acquired by the acquisition are non-tangible assets?",
+        "predicted": "73.3%",
+        "actual": "96%"
+      },
+      {
+        "question": "for the five years ended 12/31/2006 what is the performance difference of the class b common stock of united parcel service , inc . and the dow jones transportation average?",
+        "predicted": "33.84",
+        "actual": "-33.84%"
+      },
+      {
+        "question": "what is the percentage of decrease of long-term debt from 2007 to 2011?",
+        "predicted": "-32.7%",
+        "actual": "54.7%"
+      },
+      {
+        "question": "what was the percentage difference in sold receivables from 2007 to 2008?",
+        "predicted": "-2.67%",
+        "actual": "11%"
+      },
+      {
+        "question": "what is the percent change in the fair value per share between 2014 and 2016?",
+        "predicted": "163.83%",
+        "actual": "163%"
+      },
+      {
+        "question": "what is the rate of return of an investment in s&p500 inc from 2001 to 2005?",
+        "predicted": "16.61",
+        "actual": "11.2%"
+      },
+      {
+        "question": "what percent of assets acquired by the acquisition are non-tangible assets?",
+        "predicted": "13.7%",
+        "actual": "96%"
+      },
+      {
+        "question": "what is the total value of the options , warrants and rights that remain available for future issuance , ( in millions ) ?",
+        "predicted": "4.447",
+        "actual": "386.8"
+      },
+      {
+        "question": "what was the percentage change in rental expense for operating leases from 2008 to 2009?",
+        "predicted": "14.8%",
+        "actual": "17%"
+      },
+      {
+        "question": "what percentage of net goodwill at december 31 2011 is comprised of",
+        "predicted": "20.6%",
+        "actual": "10%"
+      },
+      {
+        "question": "in millions what was total residential mortgages balance for 2013 and 2012?",
+        "predicted": "1,356, 2,220",
+        "actual": "3576"
+      },
+      {
+        "question": "what portion of the equity compensation plan approved by security holders remains available for future issuance?",
+        "predicted": "4087587",
+        "actual": "90.1%"
+      },
+      {
+        "question": "as of december 31 , 2011 , what was the percentage change in the estimated future net amortization expense of present value of future profits from 2013 to 2014",
+        "predicted": "-58.62",
+        "actual": "58.6%"
+      },
+      {
+        "question": "what was the average annual creation of new stores for aap from 2008 to 2012?",
+        "predicted": "101",
+        "actual": "101 stores created per year"
+      },
+      {
+        "question": "what is the fair value of all notes due by 2019 ? in millions $ .",
+        "predicted": "1872",
+        "actual": "2672"
+      },
+      {
+        "question": "if current development costs increased in 2008 as much as in 2007 , what would the 2008 total be , in millions?",
+        "predicted": "2357",
+        "actual": "2057"
+      },
+      {
+        "question": "what is the operating margin for connected fitness in 2014?",
+        "predicted": "-13.1%",
+        "actual": "-68.0%"
+      },
+      {
+        "question": "what was the difference in percentage cumulative 5-year total stockholder return for cadence design systems inc . compared to the nasdaq composite for the five years ended 12/29/2012?",
+        "predicted": "31.86",
+        "actual": "-31.86"
+      },
+      {
+        "question": "based upon outstanding balances at december 31 , 2011 what was the percent of the principal and interest product of the combined products",
+        "predicted": "36.78%",
+        "actual": "23%"
+      },
+      {
+        "question": "what percent of the net change in revenue between 2006 and 2007 was due to transmission revenue?",
+        "predicted": "13.8%",
+        "actual": "15.6%"
+      },
+      {
+        "question": "purchase commitments ( in thousands ) totaled what for 2010 and 2011?",
+        "predicted": "12993",
+        "actual": "12893"
+      },
+      {
+        "question": "what is the percent change in annual long-term debt maturities ( excluding lease obligations ) and annual cash sinking fund requirements for debt outstanding from 2005 to 2004?",
+        "predicted": "-41.46",
+        "actual": "71.2%"
+      },
+      {
+        "question": "in 2002 what was the ratio of the annual cash sinking fund requirements for debt outstanding that was due in 2004 to 2005",
+        "predicted": "1.465",
+        "actual": "1.7"
+      },
+      {
+        "question": "what is the carrying value of notes due by 2017 ? in millions $ .",
+        "predicted": "698",
+        "actual": "2448"
+      },
+      {
+        "question": "for the three months ended march 2003 what were the total sales proceeds for subsidiaries assets in millions?",
+        "predicted": "$613",
+        "actual": ""
+      },
+      {
+        "question": "what was the percentage reduction in net sales for shorewood in 2006 from 2005 s",
+        "predicted": "3.0%",
+        "actual": "-3%"
+      },
+      {
+        "question": "without the us , what would the total net revenue be for 2017?",
+        "predicted": "7301",
+        "actual": "7304000000"
+      },
+      {
+        "question": "what is the percent change in operating revenues from 2001 to 2002?",
+        "predicted": "52.0%",
+        "actual": "192%"
+      },
+      {
+        "question": "what is the average of the afs investment securities during the years 2016-2018?",
+        "predicted": "216562",
+        "actual": "221866"
+      },
+      {
+        "question": "what portion of the total investment is allocated to mutual funds in 2011?",
+        "predicted": "34.8%",
+        "actual": "65.1%"
+      },
+      {
+        "question": "considering the years 2015-2016 , what is the decrease observed in the cash contributions to funded plans and benefit payments for unfunded plans?",
+        "predicted": "58.2",
+        "actual": "42.32%"
+      },
+      {
+        "question": "what is the total value of net operating loss carryforwards?",
+        "predicted": "$4,575,515,000",
+        "actual": "4575515"
+      },
+      {
+        "question": "what percentage of long-term financing was classified as current at the end of 2005?",
+        "predicted": "4.7%",
+        "actual": "4%"
+      },
+      {
+        "question": "in 2002 what was the ratio of the net mw in operation to the generation in gwh for the year",
+        "predicted": "0.132",
+        "actual": "2 net mw in operation at december 31 3955 3445 2475\\\\n3 generation in gwh for the year 29953"
+      },
+      {
+        "question": "what is the average of the afs investment securities during the years 2016-2018?",
+        "predicted": "216562",
+        "actual": "221866"
+      },
+      {
+        "question": "what is percentage change in rd&e spendings from 2013 to 2014?",
+        "predicted": "There is no data provided for RD&E spendings in 2014 to calculate the percentage change from 2013 to 2014.",
+        "actual": "8.3%"
+      },
+      {
+        "question": "what was the percent change in capital gain distributions between 2008 and 2009?",
+        "predicted": "-64.29%",
+        "actual": "-48%"
+      },
+      {
+        "question": "what was the percentage change in free cash flow from 2013 to 2014?",
+        "predicted": "-27.8",
+        "actual": "-27%"
+      },
+      {
+        "question": "what portion of the last payment for the final milestone was paid through the issuance of common stock?",
+        "predicted": "664612",
+        "actual": "67.7%"
+      },
+      {
+        "question": "what is the average number of common stock shares per register holder as of february 13 , 2009?",
+        "predicted": "797,589",
+        "actual": "795786.9"
+      },
+      {
+        "question": "on february 13 , 2009 what was the market capitalization",
+        "predicted": "11453822609.45",
+        "actual": "11456267981.5"
+      },
+      {
+        "question": "by how much did the expected annual dividends per share increase from 2005 to 2007?",
+        "predicted": "$0.30",
+        "actual": "45.5%"
+      },
+      {
+        "question": "what was the percentage change in fuel surcharge program freight revenue from 2013 to 2014?",
+        "predicted": "6%",
+        "actual": "8%"
+      },
+      {
+        "question": "assuming the same trend as in 2011 , what would total stock-based compensation cost be for 2012?",
+        "predicted": "20",
+        "actual": ""
+      },
+      {
+        "question": "what is the growth rate in rent expense and certain office equipment expense in 2013 compare to 2012?",
+        "predicted": "2.26%",
+        "actual": "3.0%"
+      },
+      {
+        "question": "what was the sum of the notes entergy issued to nypa with seven and eight annual payment installments",
+        "predicted": "$1280 million",
+        "actual": "916"
+      },
+      {
+        "question": "what is the percentage change in total debt from 2014 to 2015?",
+        "predicted": "-3.39",
+        "actual": "3.4%"
+      },
+      {
+        "question": "what is the roi of an investment in pmi from 2013 to 2014?",
+        "predicted": "-2.1%",
+        "actual": "2.1%"
+      },
+      {
+        "question": "what was the difference in percentage return for pmi common stock compared to the s&p 500 index for the five years ended 2018?",
+        "predicted": "-3.8%",
+        "actual": "53.8%"
+      },
+      {
+        "question": "what were total operating expenses as a percentage of revenue in 2013?",
+        "predicted": "97.8%",
+        "actual": "93.8%"
+      },
+      {
+        "question": "what percent of the balance increase is attributed to balances assumed in acquisitions?",
+        "predicted": "3.45%",
+        "actual": "13.45%"
+      },
+      {
+        "question": "for the quarter ended march 312008 what was the percent of the change from the highest to the lowest of the company per share sale prices of common stock",
+        "predicted": "24.9%",
+        "actual": "33.1%"
+      },
+      {
+        "question": "what was the ratio of the acquisition related costs recognized in 2015 to 2014",
+        "predicted": "6.25",
+        "actual": "0.75"
+      },
+      {
+        "question": "considering the year 2016 , what was the percentual increase in the high sale price observed during the first and second quarters?",
+        "predicted": "12.5%",
+        "actual": "12.52%"
+      },
+      {
+        "question": "at december 31 , 2015 what was the net change from december 31 , 2014 on alll on total purchased impaired loans in billions?",
+        "predicted": "-0.3",
+        "actual": "-0.6"
+      },
+      {
+        "question": "as of december 31 , 2011 , what was the percentage change in the estimated future net amortization expense of present value of future profits from 2013 to 2014",
+        "predicted": "-58.62",
+        "actual": "58.6%"
+      },
+      {
+        "question": "what was the percentage change in the common stock and option",
+        "predicted": "I'm sorry, but there seems to be a misunderstanding. The question asks for the percentage change in the common stock and option, but there is no previous data provided to calculate a change or comparison. Therefore, it's impossible to calculate a percentage change without having an initial value to compare against the final value provided in the table data.",
+        "actual": "1.7%"
+      },
+      {
+        "question": "what is the percent change in annual long-term debt maturities from 2018 to 2019?",
+        "predicted": "-6.57",
+        "actual": "7.04%"
+      },
+      {
+        "question": "what was the ratio of the debts to the assets in the purchase transaction",
+        "predicted": "0.178",
+        "actual": "17.8%"
+      },
+      {
+        "question": "in tpd , what were total matching buy/sell volumes in 2006 , 2005 and 2004?",
+        "predicted": "24000, 77000, 71000",
+        "actual": "172"
+      },
+      {
+        "question": "what the percentage increase defined contribution plans for foreign countries and contribution from 2007 to 2008",
+        "predicted": "9.6%",
+        "actual": "7.5%"
+      },
+      {
+        "question": "in 2014 , what percentage of the total amortization amount was from intangibles?",
+        "predicted": "100%",
+        "actual": "80%"
+      },
+      {
+        "question": "what is the growth rate in based rent for hudson yards , new york facility in the third period?",
+        "predicted": "12.07%",
+        "actual": "13.8%"
+      },
+      {
+        "question": "in 2014 , what percentage of the total amortization amount was from intangibles?",
+        "predicted": "100%",
+        "actual": "80%"
+      }
+    ],
+    "errors": [],
+    "accuracy": 0.6660516605166051,
+    "error_rate": 0.0,
+    "successful_processing_rate": 1.0
+  }
+}

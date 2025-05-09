@@ -34,7 +34,6 @@ wheels/
 *.swo
 
 # Project specific
-evaluation_results.json
 *.pdf
 *.log
 
@@ -55,5 +54,8 @@ logs/
 # Large data files
 Data/data/train_turn.json
 Data/data/train.json
+Data/data/*.json
+!Data/data/dev.json
+
 
 
