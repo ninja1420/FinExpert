@@ -23,7 +23,7 @@ A sophisticated financial data analysis application that uses state-of-the-art L
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ninja1420/FinExpert.git
 cd FinExpert
 ```
 
@@ -64,25 +64,43 @@ streamlit run app.py
    - Input your financial data in JSON format
    - Ask questions about the data
    - View analysis results and chat history
+   
+![FinExpert Screenshot](image.png)
+
+## Evaluation Dataset
+
+The evaluation was performed using the ConvFinQA dataset ([GitHub Repository](https://github.com/czyssrs/ConvFinQA)), a comprehensive dataset for conversational financial question answering from EMNLP 2022. The dataset includes:
+
+### Dataset Statistics
+- Training set: 3,037 conversations (11,104 question turns)
+- Development set: 421 conversations (1,490 question turns)
+- Test set: 434 conversations (1,521 question turns)
+
+### Data Format
+Each entry in the dataset contains:
+- Pre-text and post-text context
+- Financial tables
+- Question-answer pairs
+- Ground truth programs for numerical reasoning
+
+The dataset is particularly suited for evaluating:
+- Numerical reasoning capabilities
+- Financial context understanding
+- Multi-turn conversation handling
+- Answer accuracy and precision
 
 ## Running the Evaluation
 
-The evaluation script tests the model's performance on a dataset of financial questions.
+The evaluation script tests the model's performance on the ConvFinQA dataset:
 
-1. Install additional requirements for evaluation:
-```bash
-pip install -r report_requirements.txt
-```
+1. Prepare your evaluation data:
+   - Place the test data in `Data/data/dev.json`
+   - Ensure the JSON format matches the ConvFinQA structure
 
-2. Prepare your evaluation data:
-   - Place your test data in `Data/data/dev.json`
-   - Ensure the JSON format matches the expected structure with 'table', 'qa', and other required fields
-
-3. Run the evaluation:
+2. Run the evaluation:
 ```bash
 python evaluation.py
 ```
-
 
 The evaluation will:
 - Process each question in the dataset
@@ -122,11 +140,10 @@ The evaluation generates:
 - Accuracy metrics
 - Processing success rates
 - Error analysis
-- Detailed PDF report with visualizations
+- Detailed performance report
 
 Find the results in:
 - `evaluation_results.json`: Raw evaluation data
-- `FinancialReasoningAssistant_Report.pdf`: Comprehensive report
 
 ## Troubleshooting
 
