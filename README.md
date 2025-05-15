@@ -50,6 +50,30 @@ OPENAI_API_KEY=your_openai_key_here
 GROQ_API_KEY=your_groq_key_here
 ```
 
+## Docker Deployment
+
+1. Build the Docker image:
+```bash
+docker build -t finexpert_image:latest .
+```
+
+2. Run the Docker container:
+```bash
+docker run -p 8501:8501 --env-file src/.env --name finexpert_image finexpert_image
+```
+
+The application will be available at http://localhost:8501
+
+To stop the container:
+```bash
+docker stop finexpert_image
+```
+
+To remove the container:
+```bash
+docker rm finexpert_image
+```
+
 ## Running the Application
 
 1. Start the Streamlit application:
