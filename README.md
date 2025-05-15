@@ -74,6 +74,70 @@ To remove the container:
 docker rm finexpert_image
 ```
 
+## API Documentation
+
+The application provides a REST API for financial analysis. You can run the API server in two ways:
+
+1. Using uvicorn directly:
+```bash
+uvicorn src.api:app --reload --host 0.0.0.0 --port 8000 --log-level info
+```
+
+2. Using Python:
+```bash
+python src/api.py
+```
+
+### API Endpoints
+
+1. **Analyze Financial Data**
+   - Endpoint: `POST /analyze`
+   - Description: Analyzes financial data and answers questions using LLMs
+   - Request Body:
+     ```json
+     {
+    "question": "What was the percent change in the risk and insurance brokerage services segment revenue from 2008 to 2009?",
+    "json_data": "{\"table\": [[\"years ended december 31,\", \"2009\", \"2008\", \"2007\"], [\"segment revenue\", \"$6305\", \"$6197\", \"$5918\"], [\"segment operating income\", \"900\", \"846\", \"954\"], [\"segment operating income margin\", \"14.3%\", \"13.7%\", \"16.1%\"]], \"pre_text\": [\"risk and insurance brokerage services.\"], \"post_text\": [\"during 2009 we continued to see a soft market, which began in 2007, in our retail brokerage product line.\"]}",
+    "context": "This data represents the financial performance of the risk and insurance brokerage services segment over three years.",
+    "client_choice": "Groq"
+    }
+     ```
+
+2. **Health Check**
+   - Endpoint: `GET /health`
+   - Description: Checks if the API is running
+   - Response: `{"status": "healthy"}`
+
+### Interactive API Documentation
+
+The API provides interactive documentation through Swagger UI and ReDoc:
+
+1. **Swagger UI**
+   - URL: http://localhost:8000/docs
+   - Features:
+     - Interactive API testing
+     - Request/response examples
+     - Schema documentation
+     - Try-it-out functionality
+
+2. **ReDoc**
+   - URL: http://localhost:8000/redoc
+   - Features:
+     - Clean, responsive documentation
+     - Schema visualization
+     - Request/response examples
+
+### Logging
+
+The API logs are stored in:
+- File: `logs/financial_analysis.log`
+- Console output
+
+Log format:
+```
+timestamp - module_name - log_level - message
+```
+
 ## Running the Application
 
 1. Start the Streamlit application:
