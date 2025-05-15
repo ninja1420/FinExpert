@@ -101,7 +101,7 @@ python src/api.py
         "context": "This data represents the financial performance of the risk and insurance brokerage services segment over three years.",
         "client_choice": "Groq"
     }
-     ```
+    ```
 
 2. **Health Check**
    - Endpoint: `GET /health`
