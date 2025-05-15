@@ -96,10 +96,10 @@ python src/api.py
    - Request Body:
      ```json
      {
-    "question": "What was the percent change in the risk and insurance brokerage services segment revenue from 2008 to 2009?",
-    "json_data": "{\"table\": [[\"years ended december 31,\", \"2009\", \"2008\", \"2007\"], [\"segment revenue\", \"$6305\", \"$6197\", \"$5918\"], [\"segment operating income\", \"900\", \"846\", \"954\"], [\"segment operating income margin\", \"14.3%\", \"13.7%\", \"16.1%\"]], \"pre_text\": [\"risk and insurance brokerage services.\"], \"post_text\": [\"during 2009 we continued to see a soft market, which began in 2007, in our retail brokerage product line.\"]}",
-    "context": "This data represents the financial performance of the risk and insurance brokerage services segment over three years.",
-    "client_choice": "Groq"
+        "question": "What was the percent change in the risk and insurance brokerage services segment revenue from 2008 to 2009?",
+        "json_data": "{\"table\": [[\"years ended december 31,\", \"2009\", \"2008\", \"2007\"], [\"segment revenue\", \"$6305\", \"$6197\", \"$5918\"], [\"segment operating income\", \"900\", \"846\", \"954\"], [\"segment operating income margin\", \"14.3%\", \"13.7%\", \"16.1%\"]], \"pre_text\": [\"risk and insurance brokerage services.\"], \"post_text\": [\"during 2009 we continued to see a soft market, which began in 2007, in our retail brokerage product line.\"]}",
+        "context": "This data represents the financial performance of the risk and insurance brokerage services segment over three years.",
+        "client_choice": "Groq"
     }
      ```
 
